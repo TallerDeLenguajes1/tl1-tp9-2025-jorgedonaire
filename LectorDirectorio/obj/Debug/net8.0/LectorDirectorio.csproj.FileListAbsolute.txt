@@ -1,0 +1,14 @@
+C:\Users\jorge\Documents\FACET\TL12025\tp9\tl1-tp9-2025-jorgedonaire\LectorDirectorio\bin\Debug\net8.0\LectorDirectorio.exe
+C:\Users\jorge\Documents\FACET\TL12025\tp9\tl1-tp9-2025-jorgedonaire\LectorDirectorio\bin\Debug\net8.0\LectorDirectorio.deps.json
+C:\Users\jorge\Documents\FACET\TL12025\tp9\tl1-tp9-2025-jorgedonaire\LectorDirectorio\bin\Debug\net8.0\LectorDirectorio.runtimeconfig.json
+C:\Users\jorge\Documents\FACET\TL12025\tp9\tl1-tp9-2025-jorgedonaire\LectorDirectorio\bin\Debug\net8.0\LectorDirectorio.dll
+C:\Users\jorge\Documents\FACET\TL12025\tp9\tl1-tp9-2025-jorgedonaire\LectorDirectorio\bin\Debug\net8.0\LectorDirectorio.pdb
+C:\Users\jorge\Documents\FACET\TL12025\tp9\tl1-tp9-2025-jorgedonaire\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\Documents\FACET\TL12025\tp9\tl1-tp9-2025-jorgedonaire\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.AssemblyInfoInputs.cache
+C:\Users\jorge\Documents\FACET\TL12025\tp9\tl1-tp9-2025-jorgedonaire\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.AssemblyInfo.cs
+C:\Users\jorge\Documents\FACET\TL12025\tp9\tl1-tp9-2025-jorgedonaire\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\FACET\TL12025\tp9\tl1-tp9-2025-jorgedonaire\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.dll
+C:\Users\jorge\Documents\FACET\TL12025\tp9\tl1-tp9-2025-jorgedonaire\LectorDirectorio\obj\Debug\net8.0\refint\LectorDirectorio.dll
+C:\Users\jorge\Documents\FACET\TL12025\tp9\tl1-tp9-2025-jorgedonaire\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.pdb
+C:\Users\jorge\Documents\FACET\TL12025\tp9\tl1-tp9-2025-jorgedonaire\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.genruntimeconfig.cache
+C:\Users\jorge\Documents\FACET\TL12025\tp9\tl1-tp9-2025-jorgedonaire\LectorDirectorio\obj\Debug\net8.0\ref\LectorDirectorio.dll
