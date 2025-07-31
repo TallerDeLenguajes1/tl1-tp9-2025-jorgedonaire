@@ -1,0 +1,15 @@
+C:\Users\jorge\Documents\FACET\TL12025\tp9\tl1-tp9-2025-jorgedonaire\LectorTagMp3\bin\Debug\net8.0\LectorTagMp3.exe
+C:\Users\jorge\Documents\FACET\TL12025\tp9\tl1-tp9-2025-jorgedonaire\LectorTagMp3\bin\Debug\net8.0\LectorTagMp3.deps.json
+C:\Users\jorge\Documents\FACET\TL12025\tp9\tl1-tp9-2025-jorgedonaire\LectorTagMp3\bin\Debug\net8.0\LectorTagMp3.runtimeconfig.json
+C:\Users\jorge\Documents\FACET\TL12025\tp9\tl1-tp9-2025-jorgedonaire\LectorTagMp3\bin\Debug\net8.0\LectorTagMp3.dll
+C:\Users\jorge\Documents\FACET\TL12025\tp9\tl1-tp9-2025-jorgedonaire\LectorTagMp3\bin\Debug\net8.0\LectorTagMp3.pdb
+C:\Users\jorge\Documents\FACET\TL12025\tp9\tl1-tp9-2025-jorgedonaire\LectorTagMp3\obj\Debug\net8.0\LectorTagMp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\Documents\FACET\TL12025\tp9\tl1-tp9-2025-jorgedonaire\LectorTagMp3\obj\Debug\net8.0\LectorTagMp3.AssemblyInfoInputs.cache
+C:\Users\jorge\Documents\FACET\TL12025\tp9\tl1-tp9-2025-jorgedonaire\LectorTagMp3\obj\Debug\net8.0\LectorTagMp3.AssemblyInfo.cs
+C:\Users\jorge\Documents\FACET\TL12025\tp9\tl1-tp9-2025-jorgedonaire\LectorTagMp3\obj\Debug\net8.0\LectorTagMp3.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\FACET\TL12025\tp9\tl1-tp9-2025-jorgedonaire\LectorTagMp3\obj\Debug\net8.0\LectorTagMp3.sourcelink.json
+C:\Users\jorge\Documents\FACET\TL12025\tp9\tl1-tp9-2025-jorgedonaire\LectorTagMp3\obj\Debug\net8.0\LectorTagMp3.dll
+C:\Users\jorge\Documents\FACET\TL12025\tp9\tl1-tp9-2025-jorgedonaire\LectorTagMp3\obj\Debug\net8.0\refint\LectorTagMp3.dll
+C:\Users\jorge\Documents\FACET\TL12025\tp9\tl1-tp9-2025-jorgedonaire\LectorTagMp3\obj\Debug\net8.0\LectorTagMp3.pdb
+C:\Users\jorge\Documents\FACET\TL12025\tp9\tl1-tp9-2025-jorgedonaire\LectorTagMp3\obj\Debug\net8.0\LectorTagMp3.genruntimeconfig.cache
+C:\Users\jorge\Documents\FACET\TL12025\tp9\tl1-tp9-2025-jorgedonaire\LectorTagMp3\obj\Debug\net8.0\ref\LectorTagMp3.dll

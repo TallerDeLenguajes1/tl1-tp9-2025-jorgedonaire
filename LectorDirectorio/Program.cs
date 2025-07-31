@@ -23,11 +23,12 @@ if (Directory.Exists(rutaDirectorio))
     {
         Console.WriteLine(archivo.Name + "                      " + archivo.Length + "kb");
     }
+    Console.WriteLine(" ");
 
     string rutaArchivoCsv = $"{rutaDirectorio}reporte_archivos.csv";
     if (!File.Exists(rutaArchivoCsv))
     {
-        File.Create(rutaArchivoCsv);
+        // File.Create(rutaArchivoCsv);
         List<string> lineasCsv = new List<string>();
         lineasCsv.Add("Nombre del archivo, Tamaño (KB), Fecha de ultima modificacion"); //inicializo la cabecera
         foreach (var archivo in rutaDirectorioConvertida.GetFiles())
@@ -35,7 +36,8 @@ if (Directory.Exists(rutaDirectorio))
             string linea = $"{archivo.Name},{archivo.Length},{archivo.LastWriteTime}"; //concateno los datos del archivo
             lineasCsv.Add(linea);
         }
-        // File.WriteAllLines(rutaArchivoCsv, lineasCsv); //otra forma 
+        File.WriteAllLines(rutaArchivoCsv, lineasCsv); //otra forma 
+        
     }
 }
 else

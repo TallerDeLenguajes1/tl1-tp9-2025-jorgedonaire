@@ -12,3 +12,4 @@ C:\Users\jorge\Documents\FACET\TL12025\tp9\tl1-tp9-2025-jorgedonaire\LectorDirec
 C:\Users\jorge\Documents\FACET\TL12025\tp9\tl1-tp9-2025-jorgedonaire\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.pdb
 C:\Users\jorge\Documents\FACET\TL12025\tp9\tl1-tp9-2025-jorgedonaire\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.genruntimeconfig.cache
 C:\Users\jorge\Documents\FACET\TL12025\tp9\tl1-tp9-2025-jorgedonaire\LectorDirectorio\obj\Debug\net8.0\ref\LectorDirectorio.dll
+C:\Users\jorge\Documents\FACET\TL12025\tp9\tl1-tp9-2025-jorgedonaire\lectordirectorio\obj\Debug\net8.0\LectorDirectorio.sourcelink.json
